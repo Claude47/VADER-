@@ -1,0 +1,4 @@
+top.v
+   ../design/pancham.v
+   ../design/pancham_round.v
++incdir+../design
